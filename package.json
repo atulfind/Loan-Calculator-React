@@ -2,7 +2,7 @@
   "name": "loan-interest-calculator",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/atulfind/loan-calculator",
+  "homepage": "https://atulfind.github.io/loan-calculator",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "node-sass": "^4.13.0",
