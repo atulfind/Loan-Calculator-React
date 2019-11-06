@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/atulfind/loan-calculator/static/css/main.fc60be04.chunk.css",
-    "main.js": "/atulfind/loan-calculator/static/js/main.4732be57.chunk.js",
-    "main.js.map": "/atulfind/loan-calculator/static/js/main.4732be57.chunk.js.map",
-    "runtime-main.js": "/atulfind/loan-calculator/static/js/runtime-main.9eec7452.js",
-    "runtime-main.js.map": "/atulfind/loan-calculator/static/js/runtime-main.9eec7452.js.map",
-    "static/css/2.6d7d54d2.chunk.css": "/atulfind/loan-calculator/static/css/2.6d7d54d2.chunk.css",
-    "static/js/2.747ba5e9.chunk.js": "/atulfind/loan-calculator/static/js/2.747ba5e9.chunk.js",
-    "static/js/2.747ba5e9.chunk.js.map": "/atulfind/loan-calculator/static/js/2.747ba5e9.chunk.js.map",
-    "index.html": "/atulfind/loan-calculator/index.html",
-    "precache-manifest.58c3a5d5f6b8a0d901124aaf42f7265c.js": "/atulfind/loan-calculator/precache-manifest.58c3a5d5f6b8a0d901124aaf42f7265c.js",
-    "service-worker.js": "/atulfind/loan-calculator/service-worker.js",
-    "static/css/2.6d7d54d2.chunk.css.map": "/atulfind/loan-calculator/static/css/2.6d7d54d2.chunk.css.map",
-    "static/css/main.fc60be04.chunk.css.map": "/atulfind/loan-calculator/static/css/main.fc60be04.chunk.css.map"
+    "main.css": "/loan-calculator/static/css/main.fc60be04.chunk.css",
+    "main.js": "/loan-calculator/static/js/main.073ecc69.chunk.js",
+    "main.js.map": "/loan-calculator/static/js/main.073ecc69.chunk.js.map",
+    "runtime-main.js": "/loan-calculator/static/js/runtime-main.71783535.js",
+    "runtime-main.js.map": "/loan-calculator/static/js/runtime-main.71783535.js.map",
+    "static/css/2.6d7d54d2.chunk.css": "/loan-calculator/static/css/2.6d7d54d2.chunk.css",
+    "static/js/2.747ba5e9.chunk.js": "/loan-calculator/static/js/2.747ba5e9.chunk.js",
+    "static/js/2.747ba5e9.chunk.js.map": "/loan-calculator/static/js/2.747ba5e9.chunk.js.map",
+    "index.html": "/loan-calculator/index.html",
+    "precache-manifest.19b7cd4ebc7d6556a93ed2877ef0a942.js": "/loan-calculator/precache-manifest.19b7cd4ebc7d6556a93ed2877ef0a942.js",
+    "service-worker.js": "/loan-calculator/service-worker.js",
+    "static/css/2.6d7d54d2.chunk.css.map": "/loan-calculator/static/css/2.6d7d54d2.chunk.css.map",
+    "static/css/main.fc60be04.chunk.css.map": "/loan-calculator/static/css/main.fc60be04.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.9eec7452.js",
+    "static/js/runtime-main.71783535.js",
     "static/css/2.6d7d54d2.chunk.css",
     "static/js/2.747ba5e9.chunk.js",
     "static/css/main.fc60be04.chunk.css",
-    "static/js/main.4732be57.chunk.js"
+    "static/js/main.073ecc69.chunk.js"
   ]
 }
