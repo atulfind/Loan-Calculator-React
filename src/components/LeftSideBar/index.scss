@@ -1,0 +1,57 @@
+.left-bar {
+  width: 40%;
+  height: 100%;
+  background: #fff;
+  box-shadow: 0px 4px 14px rgba(0, 0, 0, 0.1);
+  z-index: 1;
+  min-width: 400px;
+  .header-fixed{
+    padding: 20px;
+    position: fixed;
+    left: 0;
+    background: linear-gradient(90deg, #1C819E 0%, #17AED9 94.32%);
+    color: #fff;
+    width: 40%;
+    min-width: 400px;
+  }
+  .history{
+    margin-top: 60px;
+    height: calc(100% - 60px);
+    overflow: auto;
+    .row{
+      display: flex;
+      padding: 10px 20px;
+      border-bottom: 1px solid #eeeeee;
+    }
+    .title{
+      font-size: 13px;
+      font-weight: 700;
+      display: inline-block;
+    }
+    .sub-title{
+      font-size: 13px;
+      display: inline-block;
+      margin-left: 5px;
+    }
+    .input-values{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+  }
+  .interest-details{
+    width: 100%;
+    float: left;
+    .col-3{
+      white-space: nowrap;
+      list-style: none;
+      width: 33%;
+      &:nth-child(2){
+        text-align: center;
+      }
+      &:nth-child(3){
+        text-align: right;
+      }
+    }
+  }
+}
